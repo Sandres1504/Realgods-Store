@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+venv/
+.env
+
+# React / Node
+node_modules/
+build/
+dist/
+
+# DB
+*.sqlite3
