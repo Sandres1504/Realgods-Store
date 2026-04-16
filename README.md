@@ -1,6 +1,6 @@
 # ⚡ REALGODS - E-COMMERCE LAB
 
-**Realgods** (formerly known as Loyal) is a high-end streetwear digital experience. This platform is designed to showcase "oversized" collections with a minimalist, dark, and industrial aesthetic, optimized for quick conversions and a seamless user experience.
+**Realgods**  is a high-end streetwear digital experience. This platform is designed to showcase "oversized" collections with a minimalist, dark, and industrial aesthetic, optimized for quick conversions and a seamless user experience.
 
 ## 💀 The Concept
 
