@@ -26,4 +26,3 @@ Realgods isn't just a store; it's a lab. The UI reflects the "Street Food Lab" a
 - **JavaScript (ES6+)**: Custom logic for cart state management and WhatsApp API integration.
 - **CSS3 / Styled-Thinking**: Custom glow effects, backdrop blurs, and responsive grid layouts.
 
-## 📦 Getting Started
